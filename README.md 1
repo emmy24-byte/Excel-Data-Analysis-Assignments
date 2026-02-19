@@ -1,0 +1,30 @@
+📊 Excel Data Analysis Assignment Overview
+This project contains my completed Excel assignment from my Data Analysis Mentorship Program.
+The objective was to practice Excel fundamentals including formulas, formatting, and visualization using the provided dataset.
+✅ Tasks Completed
+1. Excel Interface & Navigation
+Explored workbook structure
+Practiced worksheet navigation and cell referencing
+2. Basic Formulas Used
+SUM – Calculated totals
+AVERAGE – Computed mean values
+COUNT – Counted data entries
+3. Taxable Income Calculation
+Calculated taxable income using Excel formulas
+Applied structured cell referencing
+4. Tax Payable Calculation
+Computed tax payable using a 7% tax rate
+Used absolute cell references ($) to lock the tax rate cell
+Formula Example: =Taxable_Income * $Tax_Rate$
+5. Data Formatting
+Formatted data into structured tables
+Applied number formatting for currency values
+6. Data Visualization
+Created a chart for Employees' Taxable Income
+Created a chart for Tax Payable
+Derived insights by comparing income levels and tax distribution
+📈 Key Insight
+Employees with higher taxable income contributed proportionally higher tax amounts, as expected under a flat 7% tax rate. The visual charts clearly demonstrate the direct relationship between taxable income and tax payable.
+📂 File Included
+   Employee_data_okoro_ogbonnaya.xlsx
+   
