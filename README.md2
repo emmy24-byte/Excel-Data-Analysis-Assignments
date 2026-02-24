@@ -1,0 +1,19 @@
+# Excel Data Cleaning Project – M4ACE Mentorship
+
+As part of my Data Analytics mentorship with M4ACE, we were given a dataset cleaning assignment.
+
+## Objective
+Transform a messy dataset into a clean, structured, analysis-ready table using Microsoft Excel.
+
+## Techniques Used
+- TRIM() – removed extra spaces
+- PROPER() – standardized text formatting
+- Concatenation – combined text fields
+- Date formatting – corrected inconsistent date entries
+- Table formatting – structured dataset for analysis
+
+## Outcome
+Before → messy dataset  
+After → clean, professional, analysis-ready dataset
+
+This project strengthened my understanding of Excel data preparation fundamentals.
